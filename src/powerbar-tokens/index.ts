@@ -5,7 +5,7 @@
  * Segment ID: "tokens"
  */
 
-import type { ExtensionAPI, ExtensionContext } from "@mariozechner/pi-coding-agent";
+import type { ExtensionAPI, ExtensionContext } from "@earendil-works/pi-coding-agent";
 
 function formatTokens(count: number): string {
 	if (count < 1000) return count.toString();
