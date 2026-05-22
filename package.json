@@ -50,7 +50,7 @@
   "devDependencies": {
     "@biomejs/biome": "2.4.13",
     "@marckrenn/pi-sub-shared": "^1.5.0",
-    "@earendil-works/pi-coding-agent": "^0.70.2",
+    "@earendil-works/pi-coding-agent": "^0.75",
     "@types/node": "^25.6.0",
     "typescript": "^6.0.3"
   }
